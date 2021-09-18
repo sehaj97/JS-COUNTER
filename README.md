@@ -1,3 +1,5 @@
+https://sehaj97.github.io/JS-COUNTER/
+
 # addEventListener
 
 In this activity, you will create two buttons that will increment and decrement a counter when selected. 
@@ -17,6 +19,3 @@ In this activity, you will create two buttons that will increment and decrement 
 ## Bonus
 
 * Add some code to ensure that the count never gets below 0.
-
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
